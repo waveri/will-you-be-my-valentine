@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/valentine_day",
+  base: "/valentine_day/",
   plugins: [react()],
 });
